@@ -1,0 +1,53 @@
+
+*{
+  overflow: hidden;
+}
+body {
+  font-family: 'Almarai';
+  font-size: 21.64px;
+  color: #000 !important;
+  font-weight: 400;
+ 
+}
+
+.main_text {
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.second_head{
+  font-size: 19px;
+}
+
+@media (max-width: 550px) {
+  .main_text {
+    font-size: 30px;
+  }
+}
+@media (max-width: 450px) {
+  .main_text {
+    font-size: 27px;
+  }
+}
+@media (max-width: 400px) {
+  .main_text {
+    font-size: 25px;
+  }
+}
+.global_btn{
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  color: #fff;
+  background-color: #5FC6E2;
+  border-radius: 27px 0px ;
+  width: 173.50px;
+  height: 50px;
+}
+.is_rtl {
+  direction: rtl;
+}
+.is_ltr {
+  direction: ltr;
+}

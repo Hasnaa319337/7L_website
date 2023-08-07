@@ -1,0 +1,29 @@
+{
+"about":{
+    "breif":"Brief summary of ",
+    "more":"Read More"
+},
+
+    "contact":{
+        "getConsult":"Get a free consultation",
+        "name": "Name",
+        "email":"Email",
+        "message":"Message",
+        "messageAddress":"Message Address",
+        "send":"Send"
+    },
+    "footer":{
+        "7L":"7L",
+        "socialMedia":"Social Media",
+        "importantLinks":"Important Links",
+        "ourProjects":"Our Projects",
+        "whoUs":"Who Us",
+        "ourServies":"Our Servies",
+        "ourWorks":"Our Works",
+        "contactUs":"Contact Us",
+        "7lCart":"7L Cart",
+        "eFatora":"E Fatora",
+        "7lPos":"7L Pos",
+        "copyRight":"All rights reserved to 7L Soft Company 2023"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "about": {
+    "breif": "نبذه مختصره عن ",
+    "more": "إقرأ  المزيد"
+  },
+  "contact": {
+    "getConsult": "احصل على استشارة مجانية",
+    "name": "الاسم",
+    "email": "البريد الالكتروني",
+    "message": "الرسالة",
+    "messageAddress": "عنوان الرسالة",
+    "send": "إرسال"
+  },
+  "footer": {
+    "7L": "حل",
+    "socialMedia": "التواصل الاجتماعي",
+    "importantLinks": "روابط هامة",
+    "ourProjects": "مشاريعنا",
+    "whoUs": "من نحن",
+    "ourServies": "خدماتنا",
+    "ourWorks": "اعمالنا",
+    "contactUs": "اتصل بنا",
+    "7lCart": "حل كارت",
+    "eFatora": "إي فاتورة",
+    "7lPos": "حل pos",
+    "copyRight": "جميع الحقوق محفوظة لشركة حل سوفت 2023"
+  }
+}
