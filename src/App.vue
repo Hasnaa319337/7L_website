@@ -3,11 +3,14 @@
     <router-view > 
 
     </router-view>
+    <footer-component/>
   </div>
 </template>
 
 <script>
+import FooterComponent from '@/components/homecomponents/FooterComponent.vue';
 export default {
+  components: { FooterComponent },
   mounted() {
     if (this.$i18n.global.locale == "en") {
       document.body.dir = "ltr";

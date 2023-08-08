@@ -3,11 +3,13 @@
     <footer>
       <v-container>
         <v-row>
-          <v-col cols="12" lg="3" md="6" sm="12">
-         
-            <h4 class="second_head">{{ $t('footer.7L') }}</h4>
+          <v-col cols="12" lg="3" md="6" xs="6">
+            <div class="first_section">
+              <img src="../../assets/Group.png" alt="" />
+              <h4 class="second_head company_name">{{ $t('footer.7L') }}</h4>
+            </div>
           </v-col>
-          <v-col cols="12" lg="3" md="6" sm="12">
+          <v-col cols="12" lg="3" md="6" xs="6">
             <h4 class="second_head">
               {{ $t('footer.socialMedia') }}
             </h4>
@@ -54,7 +56,7 @@
               </li>
             </ul>
           </v-col>
-          <v-col cols="12" lg="3" md="6" sm="12">
+          <v-col cols="12" lg="3" md="6" xs="6">
             <h4 class="second_head">
               {{ $t('footer.importantLinks') }}
             </h4>
@@ -129,7 +131,7 @@
               </li>
             </ul>
           </v-col>
-          <v-col cols="12" lg="3" md="6" sm="12"
+          <v-col cols="12" lg="3" md="6" xs="6"
             ><h4 class="second_head">
               {{ $t('footer.ourProjects') }}
             </h4>
@@ -189,7 +191,6 @@
             </ul>
           </v-col>
         </v-row>
-      
       </v-container>
       <p>{{ $t('footer.copyRight') }}</p>
     </footer>
@@ -208,6 +209,16 @@ footer {
   font-size: 15px;
   margin-top: 70px;
 }
+footer .first_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  gap: 3px;
+}
+footer .first_section h4 {
+  font-size: 37px;
+}
 
 footer svg {
   fill: #fff;
@@ -225,9 +236,9 @@ footer li a {
   margin-bottom: -3px;
   display: inline-block;
 }
-footer p{
-    text-align: center;
-    padding: 25px 0 ;
-    border-top: 1px solid #75DCF84D;
+footer p {
+  text-align: center;
+  padding: 25px 0;
+  border-top: 1px solid #75dcf84d;
 }
 </style>

@@ -1,29 +1,40 @@
 {
-"about":{
-    "breif":"Brief summary of ",
-    "more":"Read More"
-},
+  "hero": {
+    "quality": "The efficiency of your facility's work is higher with a 7L Soft"
+  },
+  "services": {
+    "techSupport": "Free technical support",
+    "security": "Information security and encryption",
+    "updates": "Free periodic updates to our software",
+    "fullSecurity": "Full security and encryption",
+    "differentProgrames": "Strictly customized software for organizations of all sizes",
+    "specialProgrammes": "Strictly customized software"
+  },
+  "about": {
+    "breif": "Brief summary of ",
+    "more": "Read More"
+  },
 
-    "contact":{
-        "getConsult":"Get a free consultation",
-        "name": "Name",
-        "email":"Email",
-        "message":"Message",
-        "messageAddress":"Message Address",
-        "send":"Send"
-    },
-    "footer":{
-        "7L":"7L",
-        "socialMedia":"Social Media",
-        "importantLinks":"Important Links",
-        "ourProjects":"Our Projects",
-        "whoUs":"Who Us",
-        "ourServies":"Our Servies",
-        "ourWorks":"Our Works",
-        "contactUs":"Contact Us",
-        "7lCart":"7L Cart",
-        "eFatora":"E Fatora",
-        "7lPos":"7L Pos",
-        "copyRight":"All rights reserved to 7L Soft Company 2023"
-    }
+  "contact": {
+    "getConsult": "Get a free consultation",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "messageAddress": "Message Address",
+    "send": "Send"
+  },
+  "footer": {
+    "7L": "7L",
+    "socialMedia": "Social Media",
+    "importantLinks": "Important Links",
+    "ourProjects": "Our Projects",
+    "whoUs": "Who Us",
+    "ourServies": "Our Servies",
+    "ourWorks": "Our Works",
+    "contactUs": "Contact Us",
+    "7lCart": "7L Cart",
+    "eFatora": "E Fatora",
+    "7lPos": "7L Pos",
+    "copyRight": "All rights reserved to 7L Soft Company 2023"
+  }
 }
