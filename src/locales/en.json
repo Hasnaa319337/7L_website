@@ -1,4 +1,12 @@
 {
+  "navs": {
+    "home": "Home",
+    "aboutUs": "About us",
+    "ourServices": "Our Services",
+    "contactUs": "Contact us",
+    "ourProjects": "Our Projects"
+ 
+  },
   "hero": {
     "quality": "The efficiency of your facility's work is higher with a 7L Soft"
   },
@@ -13,6 +21,13 @@
   "about": {
     "breif": "Brief summary of ",
     "more": "Read More"
+  },
+  "projects": {
+    "ourProjects": "Our projects",
+    "cardNet":"Card"
+  },
+  "customers": {
+    "customersOpinions": "Customers opinions"
   },
 
   "contact": {

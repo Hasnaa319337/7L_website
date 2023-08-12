@@ -1,4 +1,10 @@
-{
+{ "navs": {
+  "home": "الرئيسية",
+  "aboutUs": "من نحن",
+  "contactUs": " اتصل بنا",
+  "ourServices": "خدماتنا",
+  "ourProjects": "أعمالنا"
+},
   "hero": {
     "quality": "كفاءة عمل منشأتك اعلي مع حل"
   },
@@ -13,6 +19,13 @@
   "about": {
     "breif": "نبذه مختصره عن ",
     "more": "إقرأ  المزيد"
+  },
+  "projects":{
+    "ourProjects":"مشاريعنا",
+    "cardNet":"كارد نت"
+  },
+  "customers":{
+    "customersOpinions":"اَراء عملاؤنا"
   },
   "contact": {
     "getConsult": "احصل على استشارة مجانية",

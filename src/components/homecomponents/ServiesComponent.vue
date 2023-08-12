@@ -68,7 +68,7 @@ export default {
 
 <style>
 .services {
-  margin: 40px 0;
+  margin: 100px 0;
   display: flex;
   flex-direction: row;
   align-items: center;
